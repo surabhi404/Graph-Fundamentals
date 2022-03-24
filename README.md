@@ -8,6 +8,22 @@
   Property Graph- Entity as Vertices are pre-connected via edges/relationships, No joins for traversal/analysis, 1st class relationships, used for in-depth analysis.
   
   Relational DB or NOSQL- Each entity stored in 1(nosql) or many seperate tables, Joins needed  thus time consuming and expensive, no 1st class relations, used for   transactions   
+## Strength of NOSQL-Column, Graph, Key-value, Document
+  Column-Eficient column based processing at scale
+  
+  Graph- 1st class relationships
+  
+  Key-value- Fast key lookup , stores any type of data
+  
+  Document- handles structured docs:XML,JSON
+## Weaknesses of NOSQL-Column, Graph, Key-value, Document
+  Column-Slow update or transaction
+  
+  Graph- Not real time speed
+  
+  Key-value- Low level , bare bones
+  
+  Document- handles specialized docs 
 ## Graph 1.0, Graph 2.0, Graph 3.0
   Graph1.0- single server,provides native graph storage
   
