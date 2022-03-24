@@ -14,6 +14,31 @@
   Graph2.0-NOSQL, column/key-value type
   
   Graph3.0- Parallel loading,multihop analysis, parallel updates ,native graph storage, scale up andout for speed and size , multi graph for secure collaboration
+## Tiger Graph
+  Easy to develop by GSQL
+ 
+  Real time R/W , Multi Dimensional Analysis
+  
+  ACID+ Concurrency
+  
+  Massive DB
+  
+  fast and scalable
+  
+  Massive Parallel Processing
+  
+  Graph studio(visual SDK)
+  
+  ML feature gen.
+  
+  each vertex is storage as well as computational unit
+  
+  high speed loader with built in ETL functions
+  
+  deployment on cloud, docker, kubernetes
+  
+  REST APIs and JSON data format for queries
+
 ## 7 key Data Science Capabilities of Native Parallel DB  
   Deep Link Analysis
   
